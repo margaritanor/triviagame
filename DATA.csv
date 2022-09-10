@@ -1,0 +1,16 @@
+ID,name,c1,c2,c3,story,nav,lose,win,stranger
+1,entrance,4,5,8,You are in the entrance of a famous museum,"Press 1 to go to pre-historic animals room, Press 2 to go to famous painting room, and Press 3 to go to cafetery",0,0,0
+2,bathroom,14,6,13,You are in the bathroom washing your hands,"Press 1 to go to exito, Press 2 to go to egyptian sculptures gallery, and Press 3 to go to Mexico culture room",0,0,0
+3,cafetery,2,9,10,You are in caferey taking a rest,"Press 1 to go to bathroom, Press 2 to go to Greece culture,  and Press 3 to go to Athens culture room",0,0,1
+4,pre-historic animals,12,1,14,You are in pre-historic animals room watching dinosaurius,"Press 1 to go to Japan Culture, Press 2 to go to Greece culture,  and Press 3 to go to Athens culture room",0,0,0
+5,famous painting ,3,7,6,You are in famous painting looking the monalisa,"Press 1 to go to cafetery, Press 2 to go to rivers of the world,  and Press 3 to go to Egyptian culture room",0,0,0
+6,Egyptian sculptures gallery,11,8,7,You are in egyptian sculptures gallery,"Press 1 to go to Islamic world, Press 2 to go to roman empire,  and Press 3 to go to rivers of the world",0,0,0
+7,rivers of the world,4,9,10,You are in rivers  of the world room,"Press 1 to go to prehistoric animals, Press 2 to go to  the Greece culture,  and Press 3 to go to Athens culture",0,0,0
+8,roman empire room,12,4,2,You are in roman empire room,"Press 1 to go to Japan culture, Press 2 to go to  Prehistoric animals,  and Press 3 to go to bathroom",0,0,0
+9,Greece culture,3,5,15,You are in Greece culture,"Press 1 to go to CAfetery, Press 2 to go to  famous painting,  and Press 3 to go to exit",0,0,0
+10,Athens culture,6,8,3,You are in Athens culture room,"Press 1 to go to Egyptian culture, Press 2 to go to  roman empire,  and Press 3 to go to cafetery",0,0,0
+11,Islamic world,2,14,13,You are in Islamic world room,"Press 1 to go to bathroom, Press 2 to go to  exit,  and Press 3 to go to mexico culture",0,0,0
+12,japan culture,6,11,5,You are in japan culture,"Press 1 to go to Egyptian culture, Press 2 to go to islamic world,  and Press 3 to go to famous painting",0,0,0
+13,mexico culture,5,9,3,You are in mexico culture,"Press 1 to go to famous painting, Press 2 to go to  Greece culture,  and Press 3 to go to cafetery",0,0,0
+14,exit,,,,You have to leave the museum,game over!,1,0,0
+15,win,,,,You find the room with the jacklpot,You won,0,1,0
